@@ -185,9 +185,3 @@ async function scrapeLinkedInProfile() {
     };
 }
 
-// https://www.linkedin.com/in/aditya-negi-981849231/
-// https://www.linkedin.com/in/kubermehta/
-// https://www.linkedin.com/in/vartika-t-rao/
-// https://www.linkedin.com/in/mohammad-anas-0aaa2a23b/
-// https://www.linkedin.com/in/ayush-malviya-b53a47343/
-// https://www.linkedin.com/in/kubermehta/
