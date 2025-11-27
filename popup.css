@@ -1,5 +1,4 @@
 body { 
-    /* font-family: Arial, sans-serif;  */
     width: 360px; 
     padding: 12px;
     text-align: center;
@@ -13,7 +12,6 @@ button {
     margin-top: 8px; 
     padding: 8px 12px; 
     border-radius: 5px;
-    /* border : none ; */
     outline : none;
     background-color: rgb(234, 255, 127);
 }
